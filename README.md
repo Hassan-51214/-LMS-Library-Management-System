@@ -18,5 +18,3 @@ A simple **Library Management System** built in C++ using basic programming conc
    - Admin password → `admin`
    - Student password → `student`
 
-## Author
-👤 Malik Muhammad Ariyan
